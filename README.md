@@ -2,8 +2,12 @@
 
 #### I'm a Junior C# Developer, just starting my career path.
 
-![Sile9t's Stats](https://github-readme-stats.vercel.app/api?username=Sile9t&theme=nord&show_icons=true&hide_border=false&count_private=true)
-![Sile9t's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sile9t&theme=nord&show_icons=true&hide_border=false&layout=compact)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sile9t&theme=nord&show_icons=true&hide_border=false&count_private=true" width="500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sile9t&theme=nord&show_icons=true&hide_border=false&layout=compact" width="300">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sile9t&theme=nord&hide_border=false" width="800">
+</p>
+
 
 - ⚙ Languages I know: `.cs`, `.java`, `.php`, `.py`, `.html`, `.css`
 - 🧰 I have experience with: **Redis**, **MeiliSearch**, **ElasticSearch**
