@@ -3,8 +3,8 @@
 #### I'm a Junior C# Developer, just starting my career path.
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sile9t&theme=nord&show_icons=true&hide_border=false&count_private=true" width="500">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sile9t&theme=nord&show_icons=true&hide_border=false&layout=compact" width="300">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sile9t&theme=nord&show_icons=true&hide_border=false&count_private=true" width="450">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sile9t&theme=nord&show_icons=true&hide_border=false&layout=compact" width="342">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sile9t&theme=nord&hide_border=false" width="800">
 </p>
 
