@@ -1,6 +1,6 @@
 ### Hello there  \\(￣▽￣)
 
-#### I'm a Junior C# Developer, just starting my career path.
+#### I'm a Junior Developer, who's interested in different technologies.
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Sile9t&theme=nord&show_icons=true&hide_border=false&count_private=true" width="450">
@@ -9,7 +9,8 @@
 </p>
 
 
-- ⚙ Languages I know: `.cs`, `.java`, `.php`, `.py`, `.html`, `.css`
-- 🧰 I have experience with: **Redis**, **MeiliSearch**, **ElasticSearch**
-- 👀 Looking for place where I can grow up as a Software Engineer
-- 📚 Now I continue to learn ASP.NET, started learn Vim, want to master it and I want to learn C++
+- ⚙ Languages I know: `.cs`, `.py`, `.cpp`, `.java`, `.php`, `.html`, `.css`
+- 📒 I have experience with: [**Salesforce**](https://www.salesforce.com/), [**Django**](https://www.djangoproject.com/), [**Laravel**](https://laravel.com/), [**IOGram**](https://aiogram.dev/), [**ASP.NET**](https://dotnet.microsoft.com/ru-ru/learn/aspnet/what-is-aspnet), [**Vue.js**](https://vuejs.org/), **Redis**, **MeiliSearch**, **ElasticSearch**
+- 🧰 Instruments I use: VS Code, Visual Studio, NeoVim (LazyVim), Figma, Obsidian, Docker (Compose)
+- 💼 Working for [Syntegrico](https://vitebsk.rabota.by/employer/1669857) since Semptember 2025
+- 🧭 Now I continue my journey in the world full of different, difficult and complex technologies. Recently, I try to use [Omarchy](https://omarchy.org/) as main distribution system with LazyVim as main code editor.
